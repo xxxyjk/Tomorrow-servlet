@@ -53,34 +53,28 @@
     	margin: 0 auto;
       	width: 1300px;
       	height: 1500px;
-    }
-    
+    }    
     #nav_menu {
       float: left;
       width: 20%;
       height: 100%;      
     }
-
     #nav_menu ul {
       	margin-top: 100px;      
     }
-
     #nav_menu li a {
       	display: inline-block;
       	color: black;
       	font-size: 20px;
       	font-weight: bold;
       	margin: 10px 5px 5px 30px;            
-    }   
-    
+    }       
     #product_content {
       	float: right;
       	position: relative;      
       	width: 80%;
-      	height: 100%;      	
-      /* background-color: burlywood; */
+      	height: 100%;   
     }    
-
     #category_group {      
       	position: absolute;
       	width: 500px;      
@@ -96,13 +90,10 @@
       	border-radius: 50px; 
       	margin-right: 10px;     
     }
-
     #funiture, #fabric, #light{
       	margin: 0 10px;
     }
-
     #guide {
-    	/* border: 1px solid black; */
       	position: absolute;
       	top: 110px;
       	left: 4%;
@@ -110,8 +101,7 @@
       	font-weight: bold;
       	width: 400px;
       	height: 40px;
-    }
-    
+    }    
     #prod_container {
     	border: 1px solid #ccc;
     	border-radius: 5px;
@@ -124,67 +114,63 @@
     }   	
   </style>
   <style>
+	.productImgName {
+		width: 200px;
+		height: 200px;
+		border-radius: 6px;
+	}
 
-.productImgName {
-	width: 200px;
-	height: 200px;
-	border-radius: 6px;
-}
+	.product_wrapper .proDetail {
+		width: 220px;
+		padding: 15px 0;
+		padding-right: 15%;
+		padding-left: 15%;
+		margin: 0 40px;
+	}
 
-.product_wrapper .proDetail {
-	width: 220px;
-	padding: 15px 0;
-	padding-right: 15%;
-	padding-left: 15%;
-	margin: 0 40px;
-	
-	
-}
+	.product_wrapper {
+		display: flex;
+		flex-wrap: wrap;
+		box-sizing: border-box;
+	}
 
-.product_wrapper {
-	display: flex;
-	flex-wrap: wrap;
-	box-sizing: border-box;
-	
-}
+	.pname {
+		padding: 10px 20px 10px 0;
+		font-size: 17px;
+		font-weight: 500;
+	}
 
-.pname {
-	padding: 10px 20px 10px 0;
-	font-size: 17px;
-	font-weight: 500;
-}
+	.pbrand {
+		font-size: 13px;
+		font-weight: 900;
+		color: #656e75;
+	}
 
-.pbrand {
-	font-size: 13px;
-	font-weight: 900;
-	color: #656e75;
-}
+	.pprice {
+		float: right;
+		padding-right: 20px;
+		color: black;
+		font-size: 20px;
+		font-weight: 900;
+	}
 
-.pprice {
-	float: right;
-	padding-right: 20px;
-	color: black;
-	font-size: 20px;
-	font-weight: 900;
-}
-
-#categoryName{
-	font-size: 20px;
-	font-weight: 900;
-	color: black;
-}
-.pasing{
-	text-align: center;
-	margin: 20px 0 5px;
-}
-.pasing a{
-	border: 1px solid #f5f5f5;
-	background-color: #f5f5f5;
-	padding: 0 5px;
-	color: black;
-	font-weight: 700;
-	border-radius: 3px;
-}
+	#categoryName{
+		font-size: 20px;
+		font-weight: 900;
+		color: black;
+	}
+	.pasing{
+		text-align: center;
+		margin: 20px 0 5px;
+	}
+	.pasing a{
+		border: 1px solid #f5f5f5;
+		background-color: #f5f5f5;
+		padding: 0 5px;
+		color: black;
+		font-weight: 700;
+		border-radius: 3px;
+	}
 </style>
   <body>
   <jsp:include page="../template_header.jsp"/>	
@@ -193,7 +179,7 @@
     <nav id="nav_menu">
       <ul>
         <li><a href="admain">상품 관리</a></li>
-        <li><a href="admain" style="font-size:16px">-상품 목록</a></li>
+        <li><a href="admain" style="font-size:16px; color:#35C5F0;">-상품 목록</a></li>
         <li><a href="adProductEnroll" style="font-size:16px">-상품 등록</a></li>
         <li><a href="adProductManage" style="font-size:16px">-상품 수정/삭제</a></li>
         <li><a href="adMemberOrderList">주문 내역 조회</a></li>

@@ -10,27 +10,32 @@
   	<style>       
     @import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
     #container {           
-      position: relative;
-      background: url('resources/images/main_bg.jpg')  no-repeat;
-      background-size: cover;
-      height: 1000px;
+      	position: relative;
+      	background: url('resources/images/main_bg.jpg')  no-repeat;
+      	background-size: cover;
+      	height: 1100px;
     }
     .btn_group {
-      position: absolute;
-      /* border: 1px solid red; */
-      width: 800px;
-      bottom: 35%;
-      left: 35%;
+      	position: absolute;
+      	width: 800px;
+      	bottom: 35%;
+      	left: 35%;
     }    
     #cmty_btn, #store_btn {      
-      margin: 0 50px;         
-      width: 220px;
-      height: 150px;
-      border: 1px solid white;
-      border-radius: 220px;     
-      font-family: 'Nanum Pen Script', cursive;
-      font-size: 1.5em;       
-    }
+      	margin: 0 50px;         
+      	width: 220px;
+      	height: 150px;
+      	border: 1px solid white;
+      	border-radius: 220px;     
+      	font-family: 'Nanum Pen Script', cursive;
+      	font-size: 1.5em;
+	    cursor: pointer;       
+    }	
+    
+    #cmty_btn:hover, #store_btn:hover {
+		background-color: black;
+		color: white;
+	}
   </style>
 </head>
 <body>

@@ -36,7 +36,6 @@
       float: left;
       width: 20%;
       height: 100%;
-      /* background-color: #ccc; */
     }
 
     #nav_menu ul {
@@ -56,7 +55,6 @@
       position: relative;      
       width: 80%;
       height: 100%;
-      /* background-color: burlywood; */
     }    
 
     #category_group {
@@ -90,7 +88,6 @@
     }
 
     #prod_mange {
-      /* border: 1px solid black; */
       position: absolute;
       width: 300px;
       height: 40px;
@@ -174,7 +171,7 @@
         <li><a href="admain">상품 관리</a></li>
         <li><a href="admain" style="font-size:16px">-상품 목록</a></li>
    		<li><a href="adProductEnroll" style="font-size:16px">-상품 등록</a></li>
-    	<li><a href="adProductManage" style="font-size:16px">-상품 수정/삭제</a></li>
+    	<li><a href="adProductManage" style="font-size:16px; color: #35C5F0;">-상품 수정/삭제</a></li>
         <li><a href="adMemberOrderList">주문 내역 조회</a></li>
         <li><a href="adMemberList">회원 관리</a></li>
         <li><a href="adArticleManage">게시물 관리</a></li>

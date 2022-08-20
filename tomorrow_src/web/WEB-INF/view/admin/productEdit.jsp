@@ -21,14 +21,11 @@
 	width: 1000px;
 	height: 100%;
 }
-
 #content_enroll {
-	/* border: 1px solid black; */
 	margin: 0 auto;
 	display: flex;
 	width: 950px;
 }
-
 #product_img {
 	flex-flow: row wrap;
 	width: 450px;
@@ -37,7 +34,6 @@
 }
 
 #product_enroll_grp {
-	/* border: 1px solid black; */
 	flex-flow: row wrap;
 	margin-left: 150px;
 	width: 450px;
@@ -56,12 +52,6 @@
 input[type="text"], select {
 	margin-top: 10px;
 }
-
-#pno {
-	/* border-radius: 5px;
-	border : 2px solid black; */
-}
-
 #category, #prod_brand, #prod_name, #prod_price, 
 #prod_option, #opt_no, #opt_val, #opt_price, #prod_no,
 #opt_name, #opt_value, #opt_cash, #pno, #pSeq {
@@ -147,10 +137,9 @@ input[type="text"], select {
 }
 
 #option_content {
-	/* border: 1px solid black; */
 	margin: 30px 0 0 60px;
 	width: 500px;
-	height: 250px;
+	height: 400px;
 }
 
 #edit_btn {
@@ -329,7 +318,7 @@ input[type="text"], select {
 						<td><label for="pnum" class="pName">상품 번호</label></td>
 					</tr>
 					<tr>
-						<td><input type="text" name="pnum" id="pnum" required></td>
+						<td><input type="text" name="pnum" id="pnum" placeholder="상품 번호를 입력하세요" required></td>
 					</tr>
 					<input type="hidden" name="pContentPath" id="pContentPath">					
 				</table>
