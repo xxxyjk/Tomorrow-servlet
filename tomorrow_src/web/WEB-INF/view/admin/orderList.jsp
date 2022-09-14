@@ -2,6 +2,7 @@
 <%@page import="java.util.ArrayList"%>
 <link href="<%= request.getContextPath() %>/resources/css/reset.css" rel="stylesheet" type="text/css">
 <link href="<%= request.getContextPath() %>/resources/css/header.css" rel="stylesheet" type="text/css">
+<link href="<%= request.getContextPath() %>/resources/css/orderList.css" rel="stylesheet" type="text/css">
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>    
@@ -22,128 +23,11 @@
       $(window).on("click", function() {
         // console.log("window 클릭");
         $(".admin_modal").hide();
-      });
-      
+      });     
       
     });  
   </script>
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;600&family=Nanum+Pen+Script&display=swap');
-    table,  td, th{
-	  	border-top: 1px solid black;            
-      	font-family: 'IBM Plex Sans KR', sans-serif;
-	}
-	td {
-		display: table-cell;
-		vertical-align:middle;
-	}	 
-    #container {
-     	margin: 0 auto;
-      	width: 1300px;
-      	height: 100%;
-    }
-    #nav_menu {
-      	float: left;
-      	width: 20%;
-      	height: 850px;
-    }
 
-    #nav_menu ul {
-      	margin-top: 100px;      
-    }
-
-    #nav_menu li a {
-      	display: inline-block;
-      	color: black;
-      	font-size: 20px;
-      	font-weight: bold;
-      	margin: 10px 5px 5px 30px;            
-    }   
-    
-    #order_content {
-      	float: right;
-      	position: relative;      
-      	width: 80%;
-      	height: 850px;
-    }
-
-    #order_info_content {      
-      	position: absolute;
-      	top: 13%;      
-      	left: 10px;
-      	font-size: 16px;
-      	font-weight: bold;
-    }
-
-    #total_order {
-      	position: absolute;
-      	top: 13%;
-      	left: 90%;
-    }
-
-    #order_list {                  
-      	position: absolute;  
-      	top: 18%;
-      	left: 10px;
-      	width: 900px;
-          	
-      	font-size: 13px;
-      	height: 25px;
-      	line-height: 25px;      
-    }   
-
-    #order_list tr th {      
-      	font-size: 14px;      
-    }   
-
-    #order_list td:not(:first-of-type) {
-      	text-align: center;    
-      	line-height: 1rem;     
-    }
-
-    .order_box {
-      	display: flex;
-      	margin: 15px 15px 5px 15px;      
-      	height: 90px;
-    }
-
-    .sumnail {
-      	flex-flow: row nowrap;
-      	margin: 6px;
-      	width: 65px; height: 65px;
-      	background-color: #ccc;
-    }
-
-    .order_info{
-      	flex-flow: row nowrap;
-      	width: 300px;      
-    }
-	
-    #brand{
-      	font-size: 12px;
-    }   
-    #prod_name{
-      	font-weight: bold;
-      	font-size: 14px;
-    }    
-    #prod_opt{
-      	color: #ccc;
-      	font-size: 11px;
-    } 
-	
-	#prev_next {    
-    	clear: both;  
-      	width: 800px;
-      	height: 100px;
-      	text-align: center; 
-      	margin-left: 350px;
-      	padding-top: 30px;       	
-    }
-    
-    #prev_next a {
-   		color: black;
-   	}
-  </style>
 </head>
 <body>
 	<jsp:include page="../template_header.jsp"/>

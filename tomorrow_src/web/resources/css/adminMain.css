@@ -1,0 +1,130 @@
+#container {
+	margin: 0 auto;
+	width: 1300px;
+	height: 1500px;
+}
+
+#nav_menu {
+	float: left;
+	width: 20%;
+	height: 100%;
+}
+
+#nav_menu ul {
+	margin-top: 100px;
+}
+
+#nav_menu li a {
+	display: inline-block;
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 10px 5px 5px 30px;
+}
+
+#product_content {
+	float: right;
+	position: relative;
+	width: 80%;
+	height: 100%;
+}
+
+#category_group {
+	position: absolute;
+	width: 500px;
+	top: 150px;
+	left: 4%;
+}
+
+.store_btn {
+	width: 100px;
+	height: 40px;
+	background: rgb(158, 158, 158);
+	color: white;
+	border: 1px solid rgb(158, 158, 158);
+	border-radius: 50px;
+	margin-right: 10px;
+}
+
+#funiture, #fabric, #light {
+	margin: 0 10px;
+}
+
+#guide {
+	position: absolute;
+	top: 110px;
+	left: 4%;
+	font-size: 15px;
+	font-weight: bold;
+	width: 400px;
+	height: 40px;
+}
+
+#prod_container {
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	position: absolute;
+	width: 1000px;
+	height: 700px;
+	top: 15%;
+	left: 4%;
+}
+.productImgName {
+	width: 200px;
+	height: 200px;
+	border-radius: 6px;
+}
+
+.product_wrapper .proDetail {
+	width: 220px;
+	padding: 15px 0;
+	padding-right: 15%;
+	padding-left: 15%;
+	margin: 0 40px;
+}
+
+.product_wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+}
+
+.pname {
+	padding: 10px 20px 10px 0;
+	font-size: 17px;
+	font-weight: 500;
+}
+
+.pbrand {
+	font-size: 13px;
+	font-weight: 900;
+	color: #656e75;
+}
+
+.pprice {
+	float: right;
+	padding-right: 20px;
+	color: black;
+	font-size: 20px;
+	font-weight: 900;
+}
+
+#categoryName {
+	font-size: 20px;
+	font-weight: 900;
+	color: black;
+}
+
+.pasing {
+	text-align: center;
+	margin: 20px 0 5px;
+}
+
+.pasing a {
+	border: 1px solid #f5f5f5;
+	background-color: #f5f5f5;
+	padding: 0 5px;
+	color: black;
+	font-weight: 700;
+	border-radius: 3px;
+}
