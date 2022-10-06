@@ -1,5 +1,5 @@
 # :pushpin: Tomorrow
-- 적극적인 리뷰 활동을 통한 사용자간의 커뮤니케이션 컨텐츠 제공 
+- 적극적인 리뷰 활동을 통한 사용자간의 게시판 컨텐츠 제공 
 - 스토어컨텐츠를 통한 다양한 카테고리별 상품 구매
 
 </br>
@@ -11,7 +11,7 @@
 </br>
 
 ## 2. 사용 기술
-#### `개발 환경`
+#### 개발 환경
   - Apache Tomcat Web Server 9.0
   - Visual Studio Code 1.66
   - Eclipse IDE for Enterprise Java Developers, Version: 2020-09 (4.17.0)
