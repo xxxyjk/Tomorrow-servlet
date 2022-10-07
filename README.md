@@ -23,10 +23,10 @@
 #### `Back-end`
   - Java 11
   - JSP
-  - JSTL
-  - gson-2.8.6
+  - JSTL1.2
+  - gson2.8.6
   - cos
-  - ojdbc6
+  - ojdbc66
   - Oracle
   
 #### `Front-end`
