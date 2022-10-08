@@ -6,11 +6,13 @@
 - 스토어 컨텐츠를 통해 다양한 카테고리별 상품 정보들을 한눈에 볼 수 있습니다.
 
 </br>
+
 #### 1.2 프로젝트 정보 
 - 제작 기간: 2022년 03월 29일 ~ 2022년 05월 16일
 - 참여인원 : 총 5명
 
 </br>
+
 ## 2. 사용 기술
 #### 2-1. 개발 환경
   - Apache Tomcat Web Server 9.0
@@ -39,6 +41,7 @@
   - BootStrap
 
 </br>
+
 ## 3. ERD 설계
 ![Tomorrow-ERD](https://user-images.githubusercontent.com/98321110/194283481-271d56cb-414c-4dfb-8e9f-7a7a6b8f7a6c.png)
 
