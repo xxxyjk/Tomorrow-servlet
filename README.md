@@ -23,7 +23,7 @@
 #### `Back-end`
   - Java 11
   - JSP
-  - JSTL1.2
+  - JSTL-1.2
   - gson-2.8.6
   - cos
   - ojdbc66
