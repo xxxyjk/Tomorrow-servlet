@@ -24,7 +24,7 @@
   - Java 11
   - JSP
   - JSTL1.2
-  - gson2.8.6
+  - gson-2.8.6
   - cos
   - ojdbc66
   - Oracle
