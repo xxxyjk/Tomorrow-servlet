@@ -21,7 +21,6 @@
  >- Get Started With Oracle Database 11g Express Edition   
   /Oracle SQL Developer, Version:Oracle IDE 17.2.0, Oracle IDE 21.2.1    
  >- listly  
- >- erdcloud
  >- StarUML, Version: 5.0.1   
  >- Operating System: Windows 10 Pro/Home x64
  
