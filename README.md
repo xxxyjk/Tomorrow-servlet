@@ -79,7 +79,7 @@
 > - Bootstrap: https://getbootstrap.com/
 > - WYSIWYG - ckeditor5: https://ckeditor.com/ckeditor-5/demo/
 > - W3Schools: https://www.w3schools.com/
-> - DynamicDummyImamgeGenerator: https://dummyimage.com/
+> - DynamicDummyImageGenerator: https://dummyimage.com/
 
 </br>
 
