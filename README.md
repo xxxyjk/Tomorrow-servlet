@@ -31,7 +31,7 @@
   >- JSTL-1.2
   >- gson-2.8.6
   >- cos
-  >- ojdbc66
+  >- ojdbc6
   >- Oracle
   
 >#### 2-3. `Front-end`
