@@ -71,6 +71,16 @@
 >- MultipartRequest 객체를 사용해 파일 업로드 기능을 구현했는데 다른 팀원들의 pc로 이미지 화면이 보이지 않은 issue가 생김. 여러 번 팀원들과 코드 리뷰를 해본 결과 MultipartRequest를 통해 파일 업로드 시 파일 경로가 각자 로컬 저장소에만 저장되어 공유되지 않기 때문에 다른 ip에서 업로드 한 이미지가 보이지 않았음. 학습목적으로 MultipartRequest 클래스를 적용했기 때문에 파일 서버를 사용하지 않아 이미지 관리 측면에서 다른 사용자에게 상품 이미지가 보이지 않은 issue 발생
 </br>
 
-## 8. 느낀 점
+## 8. 참고 사이트
+> - 오늘의집: hhtps://ohou.se/
+> - oven app: https://ovenapp.io/
+> - Bootstrap: https://getbootstrap.com/
+> - WYSIWYG - ckeditor5: https://ckeditor.com/ckeditor-5/demo/
+> - W3Schools: https://www.w3schools.com/
+> - DynamicDummyImamgeGenerator: https://dummyimage.com/
+
+</br>
+
+## 9. 느낀 점
 >- 첫 팀 프로젝트 산출물이었는데 웹 설계의 대한 요구사항 분석부터 코드 구현까지 직접 참여함으로써 부족함도 많았고 배운점도 많은 좋은 경험이었습니다.
 
