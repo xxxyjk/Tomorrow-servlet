@@ -72,7 +72,7 @@
 </br>
 
 ## 8. 참고 사이트
-> - 오늘의집: hhtps://ohou.se/
+> - 오늘의집: https://ohou.se/
 > - oven app: https://ovenapp.io/
 > - Bootstrap: https://getbootstrap.com/
 > - WYSIWYG - ckeditor5: https://ckeditor.com/ckeditor-5/demo/
