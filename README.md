@@ -22,7 +22,8 @@
   /Oracle SQL Developer, Version:Oracle IDE 17.2.0, Oracle IDE 21.2.1    
  >- listly   
  >- StarUML, Version: 5.0.1   
-
+ >- 운영체제: Windows 10 Pro/Home x64
+ >
 >#### 2-2. `Back-end`
   >- Java 11
   >- JSP
