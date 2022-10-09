@@ -55,14 +55,8 @@
 </br>
 
 ## 5. 프로젝트 흐름
-![product-classdiagram](https://user-images.githubusercontent.com/98321110/194733844-eff5f13d-50e3-40bb-857b-495f6617e0d7.JPG)
-~흐름 설명~
+![mvc_structure](https://user-images.githubusercontent.com/98321110/194736019-87effc58-9d15-454c-a86b-33e8afa7b331.PNG)
 <br>
-
-![story-classdiagram](https://user-images.githubusercontent.com/98321110/194733868-5ca2a16b-3791-4bfa-a7bf-716533014f40.JPG)
-~흐름 설명~
-<br>
-
 
 ## 6. 프로젝트에서 맡은 기능
 >- 메인 페이지 및 공통 헤더 및 푸터
