@@ -48,6 +48,15 @@
 
 </br>
 
+![image](https://user-images.githubusercontent.com/98321110/194733198-3912be10-cbb9-49e1-ac0d-1bc34b8ce6ca.png)
+</br>
+
+![image](https://user-images.githubusercontent.com/98321110/194733244-a8156379-a410-4d13-ab93-d493d9a8b4f4.png)
+</br>
+
+![image](https://user-images.githubusercontent.com/98321110/194733267-1ebc517a-e683-4ad4-8252-03d760d6d0e6.png)
+</br>
+
 ## 4. 핵심 기능
 >- 내일의 집 핵심 기능은 게시판에서 다른 사용자들의 상품 리뷰를 통해 
   정보를 얻고 자연스러운 구매로 이어지게 스토어 페이지를 구성한 것입니다.
@@ -55,6 +64,8 @@
 </br>
 
 ## 5. 프로젝트 흐름
+![image](https://user-images.githubusercontent.com/98321110/194732837-175eeb7c-7af1-4d66-a4b8-983e7485c610.png)
+
 
 </br>
 
