@@ -60,17 +60,21 @@
 흐름 설명
 </br>
 
+
 ![image](https://user-images.githubusercontent.com/98321110/194733198-3912be10-cbb9-49e1-ac0d-1bc34b8ce6ca.png)   
 흐름 설명
 </br>
+
 
 ![image](https://user-images.githubusercontent.com/98321110/194733244-a8156379-a410-4d13-ab93-d493d9a8b4f4.png)   
 흐름 설명
 </br>
 
+
 ![image](https://user-images.githubusercontent.com/98321110/194733267-1ebc517a-e683-4ad4-8252-03d760d6d0e6.png)   
 흐름 설명
 </br>
+
 
 ## 6. 프로젝트에서 맡은 기능
 >- 메인 페이지 및 공통 헤더 및 푸터
