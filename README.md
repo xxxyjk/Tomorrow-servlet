@@ -55,30 +55,14 @@
 </br>
 
 ## 5. 프로젝트 흐름
+![product-classdiagram](https://user-images.githubusercontent.com/98321110/194733844-eff5f13d-50e3-40bb-857b-495f6617e0d7.JPG)
+~흐름 설명~
+<br>
 
-![image](https://user-images.githubusercontent.com/98321110/194732837-175eeb7c-7af1-4d66-a4b8-983e7485c610.png)   
-흐름 설명
-</br>
+![story-classdiagram](https://user-images.githubusercontent.com/98321110/194733868-5ca2a16b-3791-4bfa-a7bf-716533014f40.JPG)
+~흐름 설명~
+<br>
 
-![image](https://user-images.githubusercontent.com/98321110/194733198-3912be10-cbb9-49e1-ac0d-1bc34b8ce6ca.png)   
-흐름 설명
-</br>
-
-![image](https://user-images.githubusercontent.com/98321110/194733244-a8156379-a410-4d13-ab93-d493d9a8b4f4.png)   
-흐름 설명
-</br>
-
-![image](https://user-images.githubusercontent.com/98321110/194733267-1ebc517a-e683-4ad4-8252-03d760d6d0e6.png)   
-흐름 설명
-</br>
-
-![image](https://user-images.githubusercontent.com/98321110/194733383-eee2e65f-64b9-485b-9d22-60f13141606c.png)   
-흐름 설명
-</br>
-
-![image](https://user-images.githubusercontent.com/98321110/194733476-dc2eddbc-1c5f-448d-aa65-2a03e0396acc.png)   
-흐름 설명
-</br>
 
 ## 6. 프로젝트에서 맡은 기능
 >- 메인 페이지 및 공통 헤더 및 푸터
