@@ -72,11 +72,11 @@
 흐름 설명
 </br>
 
-![image](https://user-images.githubusercontent.com/98321110/194733383-eee2e65f-64b9-485b-9d22-60f13141606c.png)
+![image](https://user-images.githubusercontent.com/98321110/194733383-eee2e65f-64b9-485b-9d22-60f13141606c.png)   
 흐름 설명
 </br>
 
-![image](https://user-images.githubusercontent.com/98321110/194733476-dc2eddbc-1c5f-448d-aa65-2a03e0396acc.png)
+![image](https://user-images.githubusercontent.com/98321110/194733476-dc2eddbc-1c5f-448d-aa65-2a03e0396acc.png)   
 흐름 설명
 </br>
 
