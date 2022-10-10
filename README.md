@@ -62,7 +62,7 @@
 ![user_request_code(1)](https://user-images.githubusercontent.com/98321110/194797178-ebe5186d-2f66-478a-869b-1141a0642d3a.PNG)
 >- Ajax를 통한 비동기 요청 또는 javascript를 이용한 특정 url로 양식 값 전달
  사용자 화면에서 발생한 데이터 값들은 Ajax의 비동기방식으로 특정 url에 전달하거나,    
-  javascript의 submit함수를 통해 form 값을 특정 url로 전달합니다.
+ javascript의 submit함수를 통해 form 값을 특정 url로 전달합니다.
 
 </br>
 
