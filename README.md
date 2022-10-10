@@ -75,7 +75,7 @@
 ### 4-4. Service
 ![jdbcTemp_code(1)](https://user-images.githubusercontent.com/98321110/194803035-254d35c2-6412-4fd9-a779-382712b38abf.PNG)
 - **Connection Pool**
- - 프로젝트 DB서버와 연결하기 위해 JAVA에서 제공하는 Connection 객체를 싱글톤 패턴으로 구현했습니다.
+  - 프로젝트 DB서버와 연결하기 위해 JAVA에서 제공하는 Connection 객체를 싱글톤 패턴으로 생성하여 연결된 커넥션을 나타냈습니다.
 </br>
 
 ### 4-5. Model
