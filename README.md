@@ -74,11 +74,14 @@
 
 ### 4-4. Service
 ![jdbcTemp_code(1)](https://user-images.githubusercontent.com/98321110/194803035-254d35c2-6412-4fd9-a779-382712b38abf.PNG)
+- **Connection Pool**
+ - 프로젝트 DB서버와 연결하기 위해 JAVA에서 제공하는 Connection 객체를 싱글톤 패턴으로 구현했습니다.
 </br>
 
 ### 4-5. Model
 ![model_code(1)](https://user-images.githubusercontent.com/98321110/194801138-b1df0362-6a67-4af4-bf1a-510f68d4b3a6.PNG)   
-
+- **로직 처리 실행**
+  - 예외 처리 없이 사용자의 요청을 정상적으로 수행했다면 DB에 저장 후 결과 값을 다시 Dao - Service - Controller를 거쳐 사용자 화면에 보여줍니다.
 </br>
 
 ## 5. 프로젝트에서 맡은 기능
