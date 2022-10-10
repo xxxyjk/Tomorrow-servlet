@@ -80,7 +80,7 @@
 
 ### 4-5. Model
 ![model_code(1)](https://user-images.githubusercontent.com/98321110/194801138-b1df0362-6a67-4af4-bf1a-510f68d4b3a6.PNG)   
-- **로직 처리 실행**
+- **로직 처**
   - 예외 처리 없이 사용자의 요청을 정상적으로 수행했다면 DB에 저장 후 결과 값을 다시 Dao - Service - Controller를 거쳐 사용자 화면에 보여줍니다.
 </br>
 
