@@ -67,9 +67,9 @@
 </br>
 
 ### 4-3. Controller  
-![controller_code(1)](https://user-images.githubusercontent.com/98321110/194801098-7b2241e5-2b5e-4232-acde-13bba7168b0d.PNG)
-- **사용자 요청 처리**
-  - 사용자가 화면에서 요청 시 Controller에서 그 값을 받고, Service에서 로직 처리한 응답 결과를 다시 View에 전달하는 다리 역할을 합니다.
+![controller_code(1)](https://user-images.githubusercontent.com/98321110/194801098-7b2241e5-2b5e-4232-acde-13bba7168b0d.PNG)   
+- **사용자 요청 처리와 응답 전송**
+  - 사용자가 화면에서 요청 시 Controller에서 그 값을 받고, Service에서 로직 처리한 응답 결과를 다시 View에 응답합니다.
 </br>
 
 ### 4-4. Service
