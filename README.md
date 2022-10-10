@@ -54,26 +54,28 @@
 
 </br>
 
-#### 4-1. 프로젝트 흐름
+### 4-1. 프로젝트 흐름
 ![mvc_structure](https://user-images.githubusercontent.com/98321110/194736019-87effc58-9d15-454c-a86b-33e8afa7b331.PNG)
 <br>
 
-#### 4-2. 사용자 요청
+### 4-2. 사용자 요청
 ![user_request_code(1)](https://user-images.githubusercontent.com/98321110/194797178-ebe5186d-2f66-478a-869b-1141a0642d3a.PNG)
->- 
+>- Ajax를 통한 비동기 요청 또는 javascript를 이용한 특정 url로 양식 값 전달
+>>- 사용자 화면에서 발생한 데이터 값들은 Ajax의 비동기방식으로 특정 url에 전달하거나, 
+>>  javascript의 submit함수를 통해 form 값을 특정 url로 전달합니다.
+
 </br>
 
-#### 4-3. Controller
-  
+### 4-3. Controller  
 ![controller_code(1)](https://user-images.githubusercontent.com/98321110/194792151-2f3a9e4b-0e90-43da-a6cb-45c52f53bd92.PNG)
 
 </br>
 
-#### 4-4. Service
+### 4-4. Service
 코드 첨부
 </br>
 
-#### 4-5. DAO
+### 4-5. DAO
 코드 첨부
 </br>
 
