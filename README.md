@@ -73,8 +73,7 @@
 </br>
 
 ### 4-4. Service
-![service_code(1)](https://user-images.githubusercontent.com/98321110/194799778-2d8fbb3d-cf31-43fc-be3d-971c607e7132.PNG)   
-
+![jdbcTemp_code(1)](https://user-images.githubusercontent.com/98321110/194802948-5c9187d0-e3dc-4763-a046-e4f6f3ceb7a9.PNG)
 </br>
 
 ### 4-5. Model
