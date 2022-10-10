@@ -59,7 +59,7 @@
 <br>
 
 ### 4-2. 사용자 요청
-![user_request_code(1)](https://user-images.githubusercontent.com/98321110/194797178-ebe5186d-2f66-478a-869b-1141a0642d3a.PNG)
+![user_request_code(1)](https://user-images.githubusercontent.com/98321110/194801075-0e54eeb5-b1b5-4230-bc9c-556a19261928.PNG)   
 - **Ajax를 통한 비동기 요청 또는 javascript를 이용한 특정 url로 양식 값 전달**   
    - 사용자 화면에서 발생한 데이터 값들은 Ajax의 비동기방식으로 특정 url에 전달하거나,    
  javascript의 submit함수를 통해 입력한 form 값을 전송방식에 따라 get/post 요청으로 특정 url에 전달합니다.
@@ -67,16 +67,19 @@
 </br>
 
 ### 4-3. Controller  
-![controller_code(1)](https://user-images.githubusercontent.com/98321110/194792151-2f3a9e4b-0e90-43da-a6cb-45c52f53bd92.PNG)
-
+![controller_code(1)](https://user-images.githubusercontent.com/98321110/194801098-7b2241e5-2b5e-4232-acde-13bba7168b0d.PNG)
+- **사용자 요청 처리**
+  - 사용자가 화면에서 요청 시 Controller에서 그 값을 받고, Service에서 로직 처리한 응답 결과를 다시 View에 전달하는 다리 역할을 합니다.
 </br>
 
 ### 4-4. Service
-코드 첨부
+![service_code(1)](https://user-images.githubusercontent.com/98321110/194799778-2d8fbb3d-cf31-43fc-be3d-971c607e7132.PNG)   
+
 </br>
 
-### 4-5. DAO
-코드 첨부
+### 4-5. Model
+![model_code(1)](https://user-images.githubusercontent.com/98321110/194801138-b1df0362-6a67-4af4-bf1a-510f68d4b3a6.PNG)   
+
 </br>
 
 ## 5. 프로젝트에서 맡은 기능
