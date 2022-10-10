@@ -59,7 +59,7 @@
 <br>
 
 ## 4-2. 사용자 요청
-![user_request_code(1)](https://user-images.githubusercontent.com/98321110/194793992-dafca01a-b9eb-4737-9151-18dffb6fdb9f.PNG)
+![user_request_code(1)](https://user-images.githubusercontent.com/98321110/194794125-ca57e5e1-e640-447f-a19e-855872ba5051.PNG)
 </br>
 
 ## 4-3. Controller
