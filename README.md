@@ -54,9 +54,26 @@
 
 </br>
 
-## 5. 프로젝트 흐름
+## 4-1. 프로젝트 흐름
 ![mvc_structure](https://user-images.githubusercontent.com/98321110/194736019-87effc58-9d15-454c-a86b-33e8afa7b331.PNG)
 <br>
+
+## 4-2. 사용자 요청
+## 4-3. Controller
+코드 첨부
+![controller_code(1)](https://user-images.githubusercontent.com/98321110/194790197-0650a09b-4d99-4070-8020-397be953a8a5.PNG)      
+![controller_code(2)](https://user-images.githubusercontent.com/98321110/194790208-a566609d-82bb-4289-9c32-5b52ed4b561f.PNG)   
+![controller_code(3)](https://user-images.githubusercontent.com/98321110/194790227-2e6e56da-26e5-4f46-948a-9e0846fa03ed.PNG)   
+
+</br>
+
+## 4-4. Service
+코드 첨부
+</br>
+
+## 4-5. DAO
+코드 첨부
+</br>
 
 ## 6. 프로젝트에서 맡은 기능
 >- 메인 페이지 및 공통 헤더 및 푸터
