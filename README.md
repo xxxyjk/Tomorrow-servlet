@@ -92,6 +92,13 @@
   >주문 관리: 모든 회원의 상품 주문 내역 조회   
   >게시판 관리: 게시판 조회/삭제    
 
+ ### 5-1 프로젝트 내용
+ ![image](https://user-images.githubusercontent.com/98321110/194977471-299f24ae-5d77-4f2b-bd73-16cdfc506bb2.png)   
+ - 화면설명 : 관리자 페이지의 상품 수정 컨텐츠에서 수정할 상품의 번호와 상품 상세 번호를 입력한 후 조회 버튼을 클릭하여 상품의 정보를 확인   
+ 
+ ![image](https://user-images.githubusercontent.com/98321110/194978604-50ddd0c2-1d54-45fc-9684-6a3d79bd6278.png)
+
+
 </br>
 
 ## 6. 프로젝트 과정에서 생긴 issue
