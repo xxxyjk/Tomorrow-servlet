@@ -46,17 +46,17 @@
 ## 3. ERD 설계
 ![Tomorrow-ERD](https://user-images.githubusercontent.com/98321110/194283481-271d56cb-414c-4dfb-8e9f-7a7a6b8f7a6c.png)
 
-</br>
+</br>   
 
 ## 4. 핵심 기능
 >- 내일의 집 핵심 기능은 게시판에서 다른 사용자들의 상품 리뷰를 통해 
   정보를 얻고 자연스러운 구매로 이어지게 스토어 페이지를 구성한 것입니다.
 
-</br>
+</br>   
 
 ### 4-1. 프로젝트 흐름
 ![mvc_structure](https://user-images.githubusercontent.com/98321110/194736019-87effc58-9d15-454c-a86b-33e8afa7b331.PNG)
-<br>
+<br>   
 
 ### 4-2. 사용자 요청
 ![user_request_code(1)](https://user-images.githubusercontent.com/98321110/194801075-0e54eeb5-b1b5-4230-bc9c-556a19261928.PNG)   
@@ -64,7 +64,7 @@
    - 사용자 화면에서 발생한 데이터 값들은 Ajax의 비동기방식으로 특정 url에 전달하거나,    
  javascript의 submit함수를 통해 입력한 form 값을 전송방식에 따라 get/post 요청으로 특정 url에 전달합니다.
 
-</br>
+</br>   
 
 ### 4-3. Controller  
 ![controller_code(1)](https://user-images.githubusercontent.com/98321110/194801098-7b2241e5-2b5e-4232-acde-13bba7168b0d.PNG)   
