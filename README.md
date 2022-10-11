@@ -94,9 +94,13 @@
 
  ### 5-1 프로젝트 내용
  ![image](https://user-images.githubusercontent.com/98321110/194977471-299f24ae-5d77-4f2b-bd73-16cdfc506bb2.png)   
- - 화면설명 : 관리자 페이지의 상품 수정 컨텐츠에서 수정할 상품의 번호와 상품 상세 번호를 입력한 후 조회 버튼을 클릭하여 상품의 정보를 확인   
+ - **화면설명:** 관리자 페이지의 상품 수정 컨텐츠에서 수정할 상품의 번호와 상품 상세 번호를 입력한 후 조회 버튼을 클릭하여 상품의 정보를 확인   
  
- ![image](https://user-images.githubusercontent.com/98321110/194978604-50ddd0c2-1d54-45fc-9684-6a3d79bd6278.png)
+ ![상품수정_코드구현](https://user-images.githubusercontent.com/98321110/194978696-39a04de6-a355-42c8-af0e-e1765054d3f3.PNG)    
+ - **화면설명:** 조회 버튼을 클릭하면 javascript를 통해 이벤트 함수 searchHandler를 실행하여 사용자의 조회 요청으로 전달받은 상품 번호와 상품 상세번호를 지정  한 서블릿에 전달  
+ 
+ ![상품수정구현(2)](https://user-images.githubusercontent.com/98321110/194979887-970d0c62-6b56-4ec9-bbd6-dd0cd571ac2b.PNG)   
+ - **화면설명:** 전달받은 상품번호와 상품 상세번호를 DB조회한 처리 결과값을 다시 화면단에 전달
 
 
 </br>
