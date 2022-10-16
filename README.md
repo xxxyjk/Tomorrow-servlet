@@ -96,8 +96,6 @@
   >주문 관리: 회원들의 상품 주문 내역 조회   
   >게시판 관리: 게시판 조회/삭제    
   
-![image](https://user-images.githubusercontent.com/98321110/196034958-3edea7c1-d3cb-41bd-ab09-02a653e04a56.png)
-
 </br>
 
  ### 5-1 프로젝트 내용
