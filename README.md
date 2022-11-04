@@ -57,7 +57,7 @@
 ### 4-1. 프로젝트 흐름
 ![mvc_structure](https://user-images.githubusercontent.com/98321110/194736019-87effc58-9d15-454c-a86b-33e8afa7b331.PNG)
 
-<br>   
+</br>   
 
 ### 4-2. 사용자 요청
 ![user_request_code(1)](https://user-images.githubusercontent.com/98321110/194801075-0e54eeb5-b1b5-4230-bc9c-556a19261928.PNG)   
