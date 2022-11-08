@@ -15,7 +15,7 @@
 
 ## 2. 사용 기술
 >#### 2-1. 개발 환경   
- >- **Apache Tomcat Web Server 9.0**
+ >- **Apache Tomcat Web Server 9.0**   
  Download-url: https://tomcat.apache.org/download-90.cgi   
  ![Aphache-tomcat9 0](https://user-images.githubusercontent.com/98321110/200492022-6f0c5983-ee2b-48f1-8106-29bc249bf85e.PNG)   
  
